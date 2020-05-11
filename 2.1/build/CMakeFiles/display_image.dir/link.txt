@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/display_image.dir/display_image.cpp.o  -o display_image libopencv.a 

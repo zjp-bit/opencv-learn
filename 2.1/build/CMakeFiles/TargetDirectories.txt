@@ -1,0 +1,4 @@
+/home/zjp/code/learn_opencv/2.1/build/CMakeFiles/rebuild_cache.dir
+/home/zjp/code/learn_opencv/2.1/build/CMakeFiles/edit_cache.dir
+/home/zjp/code/learn_opencv/2.1/build/CMakeFiles/opencv.dir
+/home/zjp/code/learn_opencv/2.1/build/CMakeFiles/display_image.dir

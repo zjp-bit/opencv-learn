@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zjp/code/learn_opencv/ubuntu-master/showvideo.cpp
+opencv2/highgui/highgui.hpp
+/home/zjp/code/learn_opencv/ubuntu-master/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/zjp/code/learn_opencv/ubuntu-master/opencv2/imgproc/imgproc.hpp
+iostream
+-
+

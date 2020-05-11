@@ -1,0 +1,7 @@
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/rebuild_cache.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/showimage.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/imageBasics.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/edit_cache.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/showvideo.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/videocapture.dir
+/home/zjp/code/learn_opencv/ubuntu-master/build/CMakeFiles/videobar.dir
